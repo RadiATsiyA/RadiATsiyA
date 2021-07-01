@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RadiATsiyA
+- 👀 I’m interested in web - programming
+- 🌱 I’m currently learning at college
+- 📫 How to reach me: telegramm @RadiATsiyA
