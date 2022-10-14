@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RadiATsiyA
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning framework Django  
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cyber-security sphere
+- 🌱 I’m currently learning C++ 
 - 📫 How to reach me myrzakeldiev_a@auca.kg
 
 <!---
