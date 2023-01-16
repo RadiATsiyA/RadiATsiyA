@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadiATsiyA
 - 👀 I’m interested in cyber-security sphere
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Python 
 - 📫 How to reach me myrzakeldiev_a@auca.kg
 
 <!---
