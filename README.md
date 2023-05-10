@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RadiATsiyA
-- 👀 I’m interested in web-back-end development
+- 👀 I’m interested in back-end development
 - 🌱 I’m currently learning framework Django and DRF 
 - 📫 How to reach me myrzakeldiev_a@auca.kg
 
