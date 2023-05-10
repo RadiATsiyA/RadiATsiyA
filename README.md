@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadiATsiyA
-- 👀 I’m interested in cyber-security sphere
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in web-back-end development
+- 🌱 I’m currently learning framework Django and DRF 
 - 📫 How to reach me myrzakeldiev_a@auca.kg
 
 <!---
