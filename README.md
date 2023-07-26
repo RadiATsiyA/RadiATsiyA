@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a begginer Python developer, <br>at the moment I am actively using and continuing to <br>study the Django framework, DRF and in general everything <br>related to backend development.<br><br>How to contact me:<br>    email: myrzakeldiev_a@auca.kg<br>    telegram: RadiATsiyA<br>    instagram: radiatsiya_
+I am a begginer Python developer, <br>at the moment I am actively using and continuing to <br>study the Django framework, DRF and in general everything <br>related to backend development.<br><br>How to contact me:
+<li>email: myrzakeldiev_a@auca.kg</li>    
+<li>telegram: RadiATsiyA</li>    
+<li>instagram: radiatsiya_</li>
 
 
 ## 🌐 Socials:
