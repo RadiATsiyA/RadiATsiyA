@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Python developer, currently actively using and continuing to study <br>FastAPI and Django REST, along with everything related to backend development. <br>My ultimate goal is to become a specialist in cybersecurity.<br><br>How to contact me:
 <li>email: myrzakeldiev_a@auca.kg</li>    
-<li>telegram: <a href="https://telegram.me/RadiAsMooN">RadiAsMooN</a></li>    
+<li>telegram: <a href="https://telegram.me/RadiAsMooN">RadiAxMoon</a></li>    
 <li>instagram: <a href="https://instagram.com/radiatsiya_">radiatsiya_</a></li>
 
 
